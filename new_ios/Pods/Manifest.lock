@@ -1,0 +1,12 @@
+PODS:
+  - UrbanAirship-iOS-SDK (8.0.0)
+
+DEPENDENCIES:
+  - UrbanAirship-iOS-SDK
+
+SPEC CHECKSUMS:
+  UrbanAirship-iOS-SDK: 6f5205d4d8483d545b92736cfb9597d83aa3eaf5
+
+PODFILE CHECKSUM: f1831bcb7a5c08dd751cdf98df9d5395dd3d620b
+
+COCOAPODS: 1.0.1

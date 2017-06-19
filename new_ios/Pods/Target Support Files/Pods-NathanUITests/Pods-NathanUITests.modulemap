@@ -1,0 +1,6 @@
+framework module Pods_NathanUITests {
+  umbrella header "Pods-NathanUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

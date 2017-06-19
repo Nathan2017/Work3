@@ -1,0 +1,6 @@
+framework module Pods_Nathan {
+  umbrella header "Pods-Nathan-umbrella.h"
+
+  export *
+  module * { export * }
+}
